@@ -1,3 +1,5 @@
+// Turns out I don't know how to make cards so I quickly coded one instead xx
+
 const wedding = (spouse1, spouse2) => {
   try {
     ifAnyoneKnowsAnyReasonTheseTwoShouldNotBeJoinedInMatrimonySpeakNowOrForeverHoldYourPeace();
